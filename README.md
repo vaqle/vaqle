@@ -1,4 +1,3 @@
+i do things in php
+learning go
 
-Freelance PHP Developer (4 Years Developing)
-
-Learning Go.
